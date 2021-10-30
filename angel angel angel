@@ -1,0 +1,89 @@
+<!--Si estás leyendo esto estás en el código fuente de la página como te dije en wsp-->
+<!---Feliz Cumpleaños mi querido Ángel<3--->
+
+<!--Me costó algo de trabajo configurar un dominio así sjjs, 
+espero y te guste aunque no es la gran cosa pero la hice en la noche y quedó-->
+
+<!--Eres tan increíble que te mereces todo lo mejor en este nuevo año de tu vida, 
+sé que vas a re disfrutar y vas a conseguir vivir nuevas experiencias que vas a recordar y ponerte feliz años después,
+  solo confía en ti y en todo lo que eres, porque eres re especial y vales mucho Ángel
+
+Hace un año y poco más que nos conocemos y entre todos estos meses que hemos seguido conociéndonos
+ y hablando, me has sorprendido y mucho, y mientras más iba conociendo de ti más bella persona te me hacías y te me haces.
+
+Y también quiero hacerte saber que puedes contar conmigo siempre, 
+ a mí me re nace el querer acompañarte y apoyarte en tu camino, 
+sea largo o corto te apoyaré hasta dónde tú quieras.
+
+Siempre tendrás un lugar en mi corazón mi querido Ángel<3 , 
+nos mantengamos juntos por mucho tiempo o no, siempre voy a querer que seas feliz y tengas lo mejor en tú vida.
+
+Y el mejor consejo que te puedo dar es que disfrutes y vivas cada día con ganas de aprender algo nuevo 
+y nunca te rindas porque no sabemos que tan lejos podemos llegar el día de mañana ( una frase rápida que me salió así sjsjsjj) 
+te amo tanto mi querido Ángel<3 
+
+Feliz cumpleaños<3-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Feliz Cumpleaños</title>
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://img.icons8.com/fluency-systems-regular/48/000000/globe-earth.png"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!--Raw HTML-->
+      <h1 align="center">
+        <font face="Rockwell" color="#3A3B3C">Feliz Cumpleaños Ángel</font>
+      </h1>
+      <center>
+        <img
+          src="https://pa1.narvii.com/6377/0a2ed37b42d5193f208f4ecdc3d7b8a5b240c425_hq.gif"
+          alt="centered image"
+          id="kiss-gif"
+        />
+        <p class="quote">
+          <font size="4" face="Georgia, Arial" color="#0C090A"
+            >Espero y te guste Ángel ♥<br />
+            Es bastante minimalista y sencillo, quería que se viera mas limpio
+            que saturado el código por lo que quiero que leas.<br
+          /></font>
+        </p>
+      </center>
+      <font size="4" face="Georgia, Arial" color="#0C090A"
+        ><br />
+        <br
+      /></font>
+
+      <div align="center">
+        <font size="4" face="Georgia, Arial" color="#0C090A"
+          ><iframe
+            width="195"
+            height="184"
+            src="https://www.youtube.com/embed/7K7ZtdlqP9k"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          >
+            <p>
+              <font size="4" face="Georgia, Arial" color="#0C090A"
+                >Y te dejo una canción que me gustó y me recordó a ti.</font
+              >
+            </p></iframe
+          ></font
+        >
+      </div>
+      <footer align="center">
+        te amo
+      </footer>
+    </div>
+  </body>
+</html>
+
